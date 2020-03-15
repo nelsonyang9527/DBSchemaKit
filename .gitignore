@@ -1,0 +1,4 @@
+packages/*
+DBSchema/bin/*
+DBSchema/obj/*
+DBSchema/DBSchemaKit.csproj.user
